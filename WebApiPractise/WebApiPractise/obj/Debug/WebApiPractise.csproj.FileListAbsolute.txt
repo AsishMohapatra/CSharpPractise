@@ -1,8 +1,1 @@
 D:\CSharpPractise\WebApiPractise\WebApiPractise\bin\Debug\WebApiPractise.exe.config
-D:\CSharpPractise\WebApiPractise\WebApiPractise\obj\Debug\WebApiPractise.csprojResolveAssemblyReference.cache
-D:\CSharpPractise\WebApiPractise\WebApiPractise\bin\Debug\WebApiPractise.exe
-D:\CSharpPractise\WebApiPractise\WebApiPractise\bin\Debug\WebApiPractise.pdb
-D:\CSharpPractise\WebApiPractise\WebApiPractise\obj\Debug\WebApiPractise.exe
-D:\CSharpPractise\WebApiPractise\WebApiPractise\obj\Debug\WebApiPractise.pdb
-D:\CSharpPractise\WebApiPractise\WebApiPractise\bin\Debug\Newtonsoft.Json.dll
-D:\CSharpPractise\WebApiPractise\WebApiPractise\bin\Debug\Newtonsoft.Json.xml

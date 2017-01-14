@@ -10,6 +10,7 @@ namespace AsyncWPFSample
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
